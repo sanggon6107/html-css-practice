@@ -33,7 +33,7 @@
 ## 2. html body의 구조
 html 은 기본적으로 다음과 같은 구조를 취한다.
 
-![html 구조](https://github.com/sanggon6107/python-opencv-practice/blob/master/card_crop_1.png?raw=true)  
+![html 구조](./02-tag_html_structure.png)  
 ↑*html의 기본 구조*
 
 
