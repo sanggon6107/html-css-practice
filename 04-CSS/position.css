@@ -26,3 +26,17 @@ div{
     left:30px;
     position:absolute; /*absolute는 이 적용 범위가 담고 있는 가장 가까운 박스형의 top-left를 기준으로 위치를 정한다.*/
 }
+
+.fixed_box{
+    background:peru;
+    top:100px;
+    left:80px;
+    position:fixed; /*fixed는 상자를 완전히 벗어나 제일 최상위인 '윈도우'를 기점으로 위치를 정한다.*/
+}
+
+.sticky_box{
+    background:pink;
+    top:20px;
+    left:150px;
+    position:sticky; /*stkicky는 원래 있어야할 자리(static)에 있지만, 스크롤링을 해도 그 자리에 그대로 있는다.*/
+}
