@@ -43,5 +43,12 @@ Flexbox에서는 수직, 수평 축이 있는데, 둘 중 하나를 메인 축�
 
 ![main axis와 corss axis](./05-axis.png)
 ↑*main axis와 corss axis*
+위의 예시에서는 수평 방향이 main axis가 되어있는 것을 알 수 있다. 이 때는 수직 방향이 cross axis가 된다.
+
+ 
+```html
+```
 
 
+```css
+```
